@@ -6,3 +6,7 @@ Image Login:
 
 ![image](https://github.com/user-attachments/assets/434a30f0-4f66-40a7-a84e-b59abc6ca03b)
 
+Initial Interface after login:
+
+![image](https://github.com/user-attachments/assets/37b4c57c-92be-463f-89ab-6026776bda57)
+
