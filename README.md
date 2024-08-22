@@ -10,3 +10,8 @@ Initial Interface after login:
 
 ![image](https://github.com/user-attachments/assets/37b4c57c-92be-463f-89ab-6026776bda57)
 
+Menu (Closed) for performing registration, searches etc.:
+
+![image](https://github.com/user-attachments/assets/02d68895-68c8-4374-95cb-35643b5cb0db)
+
+
