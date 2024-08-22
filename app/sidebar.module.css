@@ -1,0 +1,72 @@
+.sidebar {
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  width: 80px;
+  transition: width 0.3s ease;
+  flex-direction: column;
+  align-items: center;
+  padding: 0;
+}
+
+.open {
+  width: 200px;
+}
+
+.toggleBtn {
+  font-size: 24px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.menu {
+  list-style: none;
+  padding: 0;
+  margin: 2;
+  width: 100%;
+}
+
+.menuItem {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.icon {
+  font-size: 24px;
+  margin-right: 10px;
+}
+
+.sidebar.closed {
+  width: 80px;
+}
+
+.sidebar.open {
+  width: 200px;
+}
+
+.sidebar.open .sidebar-link[data-bs-toggle=collapse]::before {
+  left: 10.5rem;
+}
+
+.menuItem:hover {
+  background: #444;
+}
+
+.sidebarLinkTitle {
+  display: inline-block;
+  transition: opacity 0.3s, visibility 0.3s;
+}
+
+.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+.hide {
+  opacity: 0;
+  visibility: hidden;
+  width: 0;
+  overflow: hidden;
+}
