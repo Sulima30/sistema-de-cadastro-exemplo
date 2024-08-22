@@ -15,3 +15,4 @@ Menu (Closed) for performing registration, searches etc.:
 ![image](https://github.com/user-attachments/assets/02d68895-68c8-4374-95cb-35643b5cb0db)
 
 
+Above are some examples of the system's screens. The fully functional application will be demonstrated on the official website www.sullivanlima.com.br.
